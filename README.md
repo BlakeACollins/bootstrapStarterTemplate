@@ -1,3 +1,3 @@
 # bootstrapStarterTemplate
 
-A little template to get me coding quick!
+A bootstrap starter template to get me coding quick!
